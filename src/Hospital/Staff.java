@@ -3,6 +3,9 @@ package Hospital;
 public class Staff implements Entity,Human{
 	
 	String	Position	="";
+	
+	//Faltan constructores
+
 
 //Getters y Setters de Entity & Human
 	public String getDNI() {
